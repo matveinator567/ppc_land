@@ -528,7 +528,7 @@ h1{
 }
 .start{
   height: 403px;
-  background: url(../img/start-bg-3.png);
+  background: url(./img/start-bg-3.png);
   background-position: center; 
   /*  min-width: 300px;*/
   margin-top: 84px;
@@ -553,7 +553,7 @@ padding-bottom: 92px;
 /* Blue banner styles start */
 .blue-banner{
   height: 483px;
-  background: url(../img/blue-banner-4.png);
+  background: url(./img/blue-banner-4.png);
   background-position: center;
   background-size: cover;
 }
